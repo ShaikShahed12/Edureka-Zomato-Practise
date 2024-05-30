@@ -1,0 +1,25 @@
+.box {
+    
+    text-decoration: none; /* Remove underline */
+    color: black; /* Change text color to black */
+  }
+  
+  .box:hover {
+    text-decoration: none; /* Remove underline on hover */
+  }
+  
+  .innerB2 {
+    padding: 10px;
+    background-color: #ffffff;
+  }
+  
+  .qs-item-heading {
+    font-size: 1.3rem;
+    margin: 5px 0;
+  }
+  
+  .qs-item-description {
+    font-size: 1rem;
+    color: #4a4a4a; /* Dark gray text color */
+  }
+  

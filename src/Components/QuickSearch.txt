@@ -1,0 +1,26 @@
+import React, { Component } from 'react'
+import QuickSearchItem from './QuickSearchItem'
+
+export default class QuickSearch extends Component {
+  render() {
+    return (
+      <div>
+        <div className="myBottom">
+          <h1 className="BottomHead">Quick Searches</h1>
+          <h3 className="BottomSubHead">
+            Discover restaurants by type of meal
+          </h3>
+          <div className="cards">
+                <QuickSearchItem/>
+                <QuickSearchItem/>
+                <QuickSearchItem/>
+                <QuickSearchItem/>
+                <QuickSearchItem/>
+                <QuickSearchItem/>
+            
+          </div>
+        </div>
+      </div>
+    )
+  }
+}

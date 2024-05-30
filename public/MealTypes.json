@@ -1,0 +1,42 @@
+{
+    "message": "mealtypes fetched successfully",
+    "locations": [
+      {
+        "name": "Breakfast",
+        "content": "Start your day with exclusive breakfast options",
+        "image": "/Assets/img1.jpeg",
+        "meal_type": 1
+      },
+      {
+        "name": "Lunch",
+        "content": "Enjoy a delicious lunch at these top restaurants",
+        "image": "/Assets/img2.jpeg",
+        "meal_type": 2
+      },
+      {
+        "name": "Dinner",
+        "content": "Discover the best dinner options for tonight",
+        "image": "/Assets/img3.jpeg",
+        "meal_type": 3
+      },
+      {
+        "name": "Snacks",
+        "content": "Explore tasty snack options available near you",
+        "image": "/Assets/img4.jpeg",
+        "meal_type": 4
+      },
+      {
+        "name": "Drinks",
+        "content": "Find refreshing drinks to quench your thirst",
+        "image": "/Assets/img5.jpeg",
+        "meal_type": 5
+      },
+      {
+        "name": "NightLife",
+        "content": "Experience the vibrant nightlife with these top spots",
+        "image": "/Assets/img6.jpeg",
+        "meal_type": 6
+      }
+    ]
+  }
+  

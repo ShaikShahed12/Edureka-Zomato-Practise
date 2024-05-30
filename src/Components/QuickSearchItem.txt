@@ -1,0 +1,21 @@
+import React, { Component } from 'react'
+
+export default class QuickSearchItem extends Component {
+  render() {
+    return (
+      <div>
+        <div className="box">
+              <div className="innerB1">
+                <img src="./Assets/img1.jpeg" className="qs-image" />
+              </div>
+              <div className="innerB2">
+                <h4 className="qs-item-heading">Breakfast</h4>
+                <p className="qs-item-description">
+                  Start your day with exclusive Breakfast options.
+                </p>
+              </div>
+            </div>
+      </div>
+    )
+  }
+}
